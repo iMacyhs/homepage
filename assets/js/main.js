@@ -1,1 +1,2 @@
-console.log("\n %c Made with love %c by AyagawaSeirin | qwq.best ","color:#444;background:#eee;padding:5px 0;","color:#F8F8FF;background:#F4A7B9;padding:5px 0;");
+console.clear();
+console.log("\n %c Steven's Blog","color:#fff;background: linear-gradient(to right , #424242, #a9a9a9);padding:5px;border-radius: 10px;");
